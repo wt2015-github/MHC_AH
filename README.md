@@ -11,7 +11,7 @@ Thermo Fisher Scientific, West Hills, CA, USA
 ## File Description
 * ASHI2024_poster_Wang_4117808.pdf: Poster in PDF format
 * AH_*.xlsx: Supplementary tables of Ancestral Haplotypes for HLA-C to HLA-DQB1, HLA-V to HLA-DQB1, and HLA-F to HLA-DQB1 respectively
-* PFB_*.xlsx: Supplementary tables of Polymorphic Frozen Block haplotypes for the MHC Alpha (V-J), Beta (C-MICA), and Delta (DRB345-DQB1) blocks respectively
+* PFB_*.xlsx: Supplementary tables of Polymorphic Frozen Block haplotypes for the MHC Alpha (HLA-V to HLA-J), Beta (HLA-C to MICA), and Delta (HLA-DRB345 to HLA-DQB1) blocks respectively
 
 ## Contact
 Ting Wang (ting.wang3@thermofisher.com), David Sayer (david.sayer@thermofisher.com).
