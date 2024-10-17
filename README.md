@@ -16,8 +16,7 @@ MHC Ancestral Haplotypes detected in parent-child trio families from the 1KG Pro
 ## Commentary:
 
 * 599 parent-child trio families from 1KGP are used. The population groups are AFR = AFRICAN (n = 603), AMR = AMERICAN (n = 405), EUR = EUROPEAN (n = 321), EAS = EAST ASIAN (n = 213), SAS = SOUTH ASIAN (n = 255).
-* Ancestral Haplotype/Conserved Extended Haplotype (AH/CEH) definitions and designations follow the format of *Degli-Esposti et al, 1992, Hum Immunol*.
-* AH/CEH designation is assigned if the same haplotype is identified in 3 x unrelated individuals (Consensus is required for **Ancestral Haplotype**).
+* Ancestral Haplotype/Conserved Extended Haplotype (AH/CEH) designation is assigned if the same haplotype is identified in 3 x unrelated individuals, following the format of *Degli-Esposti et al, 1992, Hum Immunol*.
 * **OLI** allele designations (eg K*OLI3) refer to novel alleles we identified in this study.
 * Putative AH/CEH shaded yellow was identified in this study. Non-shaded AH/CEH was described by *Cattley et al, 2000, Eur J Immunogenet*.
   
