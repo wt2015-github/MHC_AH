@@ -14,4 +14,4 @@ Thermo Fisher Scientific, West Hills, CA, USA
 * PFB_*.xlsx: Polymorphic Frozen Blocks for the MHC Alpha (V-J), Beta (C-MICA), and Delta (DRB345-DQB1) blocks respectively
 
 ## Contact
-Ting Wang (ting.wang3@thermofisher.com), David Sayer (david.sayer@thermofisher.com).
+[Ting Wang] (ting.wang3@thermofisher.com), [David Sayer] (david.sayer@thermofisher.com).
