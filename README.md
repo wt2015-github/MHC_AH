@@ -2,9 +2,9 @@
 MHC Ancestral Haplotypes detected in parent-child trio families from the 1KG Project
 
 ## The Most Innovative Poster on ASHI 2024
-"Characterizing MHC Ancestral Haplotypes from genotyping MHC loci in parent-child trio’s of the Thousand Genome Project"
+**Characterizing MHC Ancestral Haplotypes from genotyping MHC loci in parent-child trio’s of the Thousand Genome Project**
 
-Ting Wang, David Sayer
+*Ting Wang, David Sayer*
 
 Thermo Fisher Scientific, West Hills, CA, USA
 
